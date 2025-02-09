@@ -1,0 +1,33 @@
+.ANTONIO{
+font-family: 'Times New Roman', Times, serif;
+color: darkgray;
+}
+.SALARINO{
+font-family: 'Times New Roman', Times, serif;
+color: aquamarine;
+}
+.SALANIO{
+font-family: 'Times New Roman', Times, serif;
+color: chocolate;
+}
+.BASSANIO{
+font-family: 'Times New Roman', Times, serif;
+color: darkcyan;
+}
+.LORENZO{
+font-family: 'Times New Roman', Times, serif;
+color: cornflowerblue;
+}
+.speech{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.Stagedirection{
+    background-color: black;
+    color: aliceblue;
+    
+}
+.Stagedirection:hover{
+    background-color: cadetblue;
+    color: beige;
+}
